@@ -13,6 +13,6 @@ git clone https://github.com/NATIONVK/NATION.py.git
 
 ls
 
-Cd NATION.py
+cd NATION.py
 
 python 'NATION. py'
